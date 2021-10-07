@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+	<title>IIT Lab 4 RSS Feed</title>
+	<description>5 feeds compiled for IIT lab 4</description>
+	<link>https://afsws.rpi.edu/AFS/home/41/churce3/public_html/iit/labs/lab4/rss/rss.xml</link>
+	<lastBuildDate>Tue, 12 Oct 2010 00:01:00 +0000 </lastBuildDate>
+	<pubDate>Tue, 12 Oct 2010 00:01:00 +0000 </pubDate>
+
+	<item>
+		<title>96-year-old woman who fled Nazi war crimes trial is found</title>
+		<link>https://www.cnn.com/2021/09/30/europe/german-96-year-old-nazi-intl-grm/index.html</link>
+		<description>CNN - A 96-year-old German woman who fled on Thursday before standing trial on charges of aiding and abetting murder in a Nazi concentration camp has been found by local authorities and will be brought before the court.</description>
+	  	<pubDate>Thu, 30 Sep 2021 10:02:00 +0000</pubDate>
+	</item>
+	<item>
+		<title>The Wild Beyond the Witchlight Review</title>
+		<link>https://arcaneeye.com/product-spotlights/wild-beyond-the-witchlight-review/</link>
+		<description>Arcane Eye - The Wild Beyond the Witchlight is a 5th Edition adventure module published by Wizards of the Coast that takes players from a circus on the Material Plane, called the Witchlight Festival, into the Feywild domain of Prismeer. The book was released on September 21st, 2021, is 256 pages long, and takes players from levels 1 to 8.</description>
+	  	<pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+	</item>
+	<item>
+		<title>On This Day in Space! Oct. 4, 1957: Sputnik 1 becomes 1st human-made satellite</title>
+		<link>https://www.space.com/39251-on-this-day-in-space.html</link>
+		<description>Space.com - On Oct. 4, 1957, the Soviet Union launched Sputnik 1, the satellite that started the Space Race.</description>
+	  	<pubDate>Mon, 04 Oct 2021 07:00:00 +0000</pubDate>
+	</item>
+	<item>
+		<title>It's too soon to determine whether families can gather for Christmas; 90% vaccination rate might be needed: Live COVID updates</title>
+		<link>https://www.usatoday.com/story/news/health/2021/10/03/us-might-need-90-vaccination-rate-crush-delta-variant-covid-news/5972746001/</link>
+		<description>USAToday.com - It's too soon to say whether the pandemic has eased enough for families to gather for Christmas this year, Dr. Anthony Fauci said Sunday.</description>
+	  	<pubDate>Sun, 03 Oct 2021 09:53:00 +0000</pubDate>
+	</item>
+	<item>
+		<title>Breaking: Mat Cauthon Recast for Season 2</title>
+		<link>https://www.wotseries.com/2021/09/20/breaking-mat-cauthon-recast-for-season-2/</link>
+		<description>According to Deadline, Dónal Finn will be taking over the role of Mat Cauthon from Barney Harris in season 2 of The Wheel of Time. Wotseries has confirmed this news with Amazon Studios. The reason for Harris’ departure is unknown at this time.</description>
+	  	<pubDate>Mon, 20 Sep 2021 20:41:00 +0000</pubDate>
+	</item>
+ 
+</channel>
+</rss>
+
