@@ -1,6 +1,8 @@
-/* Lab 5 CSS File 
+/*
+ In-class CSS File 
    Did you notice that CSS comments are the same as 
-   multi-line javascript comments? */
+   multi-line javascript comments? 
+*/
   
 body {
   font-family: Arial, Helvetica, sans-serif; 
@@ -31,10 +33,4 @@ fieldset {
 }
 #save {
   float: right;
-}
-input:focus {
-  background-color: #fee;
-}
-textarea:focus {
-  background-color: #fee;
 }
